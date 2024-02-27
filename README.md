@@ -8,7 +8,7 @@ If you find this work or code useful for your research, please cite:
 ```
 @inproceedings{zhu2023Weather,
   title={Revisiting Singlelmage Reflection Removal in the Wild},
-  author={Yurui Zhu and Xueyang Fu and Peng-Tao Jiang and  Hao Zhang and Qibin Sun and Jinwei Chen and Zheng-Jun Zha and Bo Liu},
+  author={Yurui Zhu and Xueyang Fu and Peng-Tao Jiang and  Hao Zhang and Qibin Sun and Jinwei Chen and Zheng-Jun Zha and Bo Li},
   booktitle={Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2023}
 }
