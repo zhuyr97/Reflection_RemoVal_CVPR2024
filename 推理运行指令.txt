@@ -1,0 +1,6 @@
+'''
+python  /ghome/zhuyr/Deref_RW/testing_reflection_wNAFNetwDetEnc_wDDP_wJointDetSparse_V3_saveImg.py  --experiment_name testing-final   --enc_blks 1 1 1 28  --middle_blk_num 1  --dec_blks 1 1  1  1  --concat True  --merge_manner 0   --pre_model ./ckpt/RR.pth   --pre_model1  ./ckpt/RD.pth  --load_pre_model True    
+'''
+python  /ghome/zhuyr/Deref_RW/testing_reflection_wNAFNetwDetEnc_wDDP_wJointDetSparse_V3_saveImg.py  --experiment_name testing-CDR   --enc_blks 1 1 1 28  --middle_blk_num 1  --dec_blks 1 1  1  1  --concat True  --merge_manner 0   --pre_model /ghome/zhuyr/Deref_RW/ckpt/RR.pth   --pre_model1  /ghome/zhuyr/Deref_RW/ckpt/RD.pth  --load_pre_model True  --eval_in_path_RW  /gdata1/zhuyr/Deref/training_data/CDR/CDR_M_re/
+
+python  /ghome/zhuyr/Deref_RW/testing_reflection_wNAFNetwDetEnc_wDDP_wJointDetSparse_V3_saveImg.py  --experiment_name testing-RW   --enc_blks 1 1 1 28  --middle_blk_num 1  --dec_blks 1 1  1  1  --concat True  --merge_manner 0   --pre_model /ghome/zhuyr/Deref_RW/ckpt/RR.pth   --pre_model1  /ghome/zhuyr/Deref_RW/ckpt/RD.pth  --load_pre_model True
