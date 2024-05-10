@@ -7,10 +7,10 @@ This is the official implementation of the CVPR 2024 paper [Revisiting Singlelma
 ## Collection Pipeline 
 
 1. Simplified illustrations of existing pipelines for collecting real reflection pairs.
-<p align=center><img width="90%" src="figs/pipelines.png"/></p>
+<p align=center><img width="90%" src="pipelines.png"/></p>
 
 2.  Illustration of our collection process with our proposed pipeline.
-<p align=center><img width="90%" src="figs/process.png"/></p>
+<p align=center><img width="90%" src="process.png"/></p>
 
 
 ##  Datasets 
